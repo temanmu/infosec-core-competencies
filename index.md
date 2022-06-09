@@ -1,14 +1,14 @@
 ## (Technical) Infosec Core Competencies
 
 1. CVE, CWE & CVSS
-    - Memahami cara untuk membaca CVE dan juga dampaknya berdasarkan CWE / CVSS
-    - Vulnerabilty seperti apa yang bisa dikategorikan kedalam sebuah CVE
-    - Memahami CVSS untuk menentukan score ataupun dampak dari sebuah CVE
-
-	  Referensi :
-        - https://www.imperva.com/learn/application-security/cve-cvss-vulnerability/
-        - https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html
-        - https://www.first.org/cvss/
+   * Memahami cara untuk membaca CVE dan juga dampaknya berdasarkan CWE / CVSS
+   * Vulnerabilty seperti apa yang bisa dikategorikan kedalam sebuah CVE
+   * Memahami CVSS untuk menentukan score ataupun dampak dari sebuah CVE
+	
+   Referensi :
+   - [https://www.imperva.com/learn/application-security/cve-cvss-vulnerability](https://www.imperva.com/learn/application-security/cve-cvss-vulnerability)
+   - [https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
+   - [https://www.first.org/cvss](https://www.first.org/cvss/)
 
 You can use the [editor on GitHub](https://github.com/temanmu/infosec-core-competencies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
