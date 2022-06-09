@@ -1,20 +1,7 @@
-## (Technical) Infosec Core Competencies
+### (Technical) Infosec Core Competencies
 
-1. CVE, CWE & CVSS
-   - Memahami cara untuk membaca CVE dan juga dampaknya berdasarkan CWE / CVSS
-   - Vulnerabilty seperti apa yang bisa dikategorikan kedalam sebuah CVE
-   - Memahami CVSS untuk menentukan score ataupun dampak dari sebuah CVE
-   
-2. Memahami perbedaan antara vulnerabilty (kerentanan), threat (ancaman) dan risk (resiko)
-3. Memahami perbedaan antara autentikasi dan autorisasi
-4. Memahami perbedaan antara enkripsi dan hashing
-5. Memahami perbedaan antara enkripsi simetris(private) dan asimetris (public key) kriptografi
-6. Memahami perbedaan antara encryption in transit and encryption at rest
-7. Memahami konsep client cert validation vs. server cert validation
-8. Memahami SSL/TLS dan bagaimana cara kerjanya
-9. Memahami dasar HTTP (request) secara manual dengan menggunakan telnet / openssl s_client, HTTP Headers dan juga CSP
-10. Menguasai minimal satu bahasa pemograman (mis: Javascript atau pyhton)
-11. Menguasai basic linux skill : grep(1), sed(1), awk(1), sort(1), uniq(1), diff(1), comm(1), tr(1), ...
-12. Memahami struktur, cara mengatur hak akses & kepemilikan file pada linux 
+###### How to read a CVE announcement and assess the impact based on its CWE / CVSS score and description. Understand that CVSS scores are relative and impact in your environment may be different.
 
-
+```
+CVE stands for Common Vulnerabilities and Exposures. CVE is a glossary that classifies vulnerabilities. The glossary analyzes vulnerabilities and then uses the Common Vulnerability Scoring System (CVSS) to evaluate the threat level of a vulnerability. A CVE score is often used for prioritizing the security of vulnerabilities.
+```
